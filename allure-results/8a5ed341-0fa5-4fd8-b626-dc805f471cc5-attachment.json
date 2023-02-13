@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class=\"app_logo\"]\"}\n  (Session info: chrome=109.0.5414.75)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x00C66643]\n\t(No symbol) [0x00BFBE21]\n\t(No symbol) [0x00AFDA9D]\n\t(No symbol) [0x00B31342]\n\t(No symbol) [0x00B3147B]\n\t(No symbol) [0x00B68DC2]\n\t(No symbol) [0x00B4FDC4]\n\t(No symbol) [0x00B66B09]\n\t(No symbol) [0x00B4FB76]\n\t(No symbol) [0x00B249C1]\n\t(No symbol) [0x00B25E5D]\n\tGetHandleVerifier [0x00EDA142+2497106]\n\tGetHandleVerifier [0x00F085D3+2686691]\n\tGetHandleVerifier [0x00F0BB9C+2700460]\n\tGetHandleVerifier [0x00D13B10+635936]\n\t(No symbol) [0x00C04A1F]\n\t(No symbol) [0x00C0A418]\n\t(No symbol) [0x00C0A505]\n\t(No symbol) [0x00C1508B]\n\tBaseThreadInitThunk [0x75DB6BD9+25]\n\tRtlGetFullPathName_UEx [0x775B8FD2+1218]\n\tRtlGetFullPathName_UEx [0x775B8F9D+1165]\n"
+}

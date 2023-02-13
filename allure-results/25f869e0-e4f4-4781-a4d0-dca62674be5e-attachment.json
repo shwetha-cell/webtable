@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class=\"app_logo\"]\"}\n  (Session info: chrome=109.0.5414.75)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x00996643]\n\t(No symbol) [0x0092BE21]\n\t(No symbol) [0x0082DA9D]\n\t(No symbol) [0x00861342]\n\t(No symbol) [0x0086147B]\n\t(No symbol) [0x00898DC2]\n\t(No symbol) [0x0087FDC4]\n\t(No symbol) [0x00896B09]\n\t(No symbol) [0x0087FB76]\n\t(No symbol) [0x008549C1]\n\t(No symbol) [0x00855E5D]\n\tGetHandleVerifier [0x00C0A142+2497106]\n\tGetHandleVerifier [0x00C385D3+2686691]\n\tGetHandleVerifier [0x00C3BB9C+2700460]\n\tGetHandleVerifier [0x00A43B10+635936]\n\t(No symbol) [0x00934A1F]\n\t(No symbol) [0x0093A418]\n\t(No symbol) [0x0093A505]\n\t(No symbol) [0x0094508B]\n\tBaseThreadInitThunk [0x75DB6BD9+25]\n\tRtlGetFullPathName_UEx [0x775B8FD2+1218]\n\tRtlGetFullPathName_UEx [0x775B8F9D+1165]\n"
+}

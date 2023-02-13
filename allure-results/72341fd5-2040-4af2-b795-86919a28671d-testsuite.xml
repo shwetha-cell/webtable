@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1674119874324' stop='1674119884712'>
+    <name>validating diff dropdown</name>
+    <title>validating diff dropdown</title>
+    <test-cases>
+        <test-case start='1674119874325' status='passed' stop='1674119884710'>
+            <name>dropdown 1</name>
+            <title>dropdown 1</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-109.0.5414.75'/>
+            </parameters>
+            <steps>
+                <step start='1674119874329' status='passed' stop='1674119884302'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='117ce4c1-3602-45ee-ae28-56139bcb2252-attachment.json' type='application/json' size='60'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1674119884302' status='passed' stop='1674119884484'>
+                    <name>POST /session/:sessionId/window/maximize</name>
+                    <title>POST /session/:sessionId/window/maximize</title>
+                    <attachments>
+                        <attachment title='Response' source='b61c3aba-e059-4b70-87af-4f0a9b555a12-attachment.json' type='application/json' size='58'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1674119884490' status='passed' stop='1674119884549'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='f07ef082-cca3-4b3c-ac7c-b5893a63db96-attachment.json' type='application/json' size='66'/>
+                        <attachment title='Response' source='e8f26158-dae1-4d88-a0ea-646196956505-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1674119884563' status='passed' stop='1674119884707'>
+                    <name>POST /session/:sessionId/element/2809f476-9d21-4487-b50f-de0c93a0097b/click</name>
+                    <title>POST /session/:sessionId/element/2809f476-9d21-4487-b50f-de0c93a0097b/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
